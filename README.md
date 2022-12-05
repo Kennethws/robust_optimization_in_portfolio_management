@@ -1,1 +1,2 @@
-# robust_optimization_in_portfolio_management
+# Robust Optimization in Portfolio Management
+Author: Xiaochen (Lily) Wang, Chao (Kenneth) Wang
