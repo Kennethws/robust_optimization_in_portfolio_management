@@ -10,4 +10,6 @@ Gurobi, Python, Julia
 Copy all the source code in `src` directory to `data` directory to run the files. The Colab file should be run using Google Colab.
 
 ## Summary
+This project combines the advantages of both Python and Julia to do convex (quadratic) optimization, hopefully providing some help to people of similar interest as relevant coding resources are surprisingly rare.
+
 For a quick summary, check the `result` directory for the poster presentation.
