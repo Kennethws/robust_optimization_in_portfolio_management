@@ -4,7 +4,7 @@ MIT 15.093 Optimization Methods Final Project
 Author: Xiaochen (Lily) Wang, Chao (Kenneth) Wang
 
 ## Requirement
-Gurobi, Python, Julia
+Gurobi >= 9.5.2, Python >= 3.6, Julia >= v1.8
 
 ## How to Use
 Copy all the source code in `src` directory to `data` directory to run the files. The Colab file should be run using Google Colab.
