@@ -1,8 +1,6 @@
 # Robust Optimization in Portfolio Management
 MIT 15.093 Optimization Methods Final Project
 
-Author: Xiaochen (Lily) Wang, Chao (Kenneth) Wang
-
 ## Requirement
 Gurobi >= 9.5.2, Python >= 3.6, Julia >= v1.8
 
