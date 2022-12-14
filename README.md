@@ -13,7 +13,7 @@ Copy all the source code in `src` directory to `data` directory to run the files
 
 - **Robust portfolio management** that achieves target return and minimizes risk simultaneously.
 - More resilient to noises and changes in market such as a **Black Swan** event.
-- Formulation with ellipsoidal uncertainty set.
+- Formulation with **ellipsoidal uncertainty set**.
 
 For a quick summary, check `result` directory for the poster presentation.
 
