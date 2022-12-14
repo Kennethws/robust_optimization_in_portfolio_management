@@ -1,7 +1,7 @@
 # Robust Optimization in Portfolio Management
 MIT 15.093 Optimization Methods Final Project
 
-This project combines the advantages of both **Python** and **Julia** to do **nonlinear** but convex (quadratic) optimization, hopefully providing some help to people of similar interest as relevant coding resources are surprisingly rare.
+This project combines the advantages of both **Python** and **Julia** to do **nonlinear** but **convex (quadratic)** optimization, hopefully providing some help to people of similar interest as relevant coding resources are surprisingly rare.
 
 ## Requirement
 Gurobi >= 9.5.2, Python >= 3.6, Julia >= v1.8
